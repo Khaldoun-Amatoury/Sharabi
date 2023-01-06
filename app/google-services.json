@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111575838413",
+    "project_id": "sharabi-9b808",
+    "storage_bucket": "sharabi-9b808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111575838413:android:a98650fe53b9cd28ac0384",
+        "android_client_info": {
+          "package_name": "com.khaldoun.sharabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111575838413-hbj2tk7fc77gvaui2q764qujbkav6u4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Be6ukaX8RK5O5Y_qHiU8uCE76sK8hl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111575838413-hbj2tk7fc77gvaui2q764qujbkav6u4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
